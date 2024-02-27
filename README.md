@@ -2,11 +2,11 @@
   
 👀 프론트엔드 개발에 관심이 있어요.
 
-✨ HTML, CSS, JACASCRIPT, Qquery, React, Git, Figma를 사용할 수 있어요.
+✨ HTML, CSS, JACASPRIC, Qquery, React, Git, Figma 를 사용할 수 있어요.
 
-🎈 GTQ Ptoshop, GTQ Illustrator, GTQ Ptoshop InDesign를 사용할 수 있어요.
+🎈 GTQ Ptoshop, GTQ 일러스트레이터, GTQ Ptoshop InDesign 를 사용할 수 있어요.
   
-🌱 저는 지금 타입스크립트와 node.js를 배우고 있어요.
+🌱 저는 지금 타입스크립트와 node.js, SCSS를 배우고 있어요.
 
 📫 나에게 연락하는 방법 : mson0432@gmail.com
 
