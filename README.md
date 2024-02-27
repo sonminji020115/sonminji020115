@@ -6,7 +6,7 @@
 
 🎈 GTQ Ptoshop, GTQ 일러스트레이터, GTQ Ptoshop InDesign 를 사용할 수 있어요.
   
-🌱 저는 지금 타입스크립트와 node.js, SCSS를 배우고 있어요.
+🌱 저는 지금 Type Script 와 node.js, SCSS를 배우고 있어요.
 
 📫 나에게 연락하는 방법 : mson0432@gmail.com
 
