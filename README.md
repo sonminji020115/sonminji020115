@@ -2,7 +2,7 @@
   
 👀 프론트엔드 개발에 관심이 있어요.
 
-✨ HTML, CSS, JACASPRIC, Qquery, React, Git, Figma 를 사용할 수 있어요.
+✨ HTML, CSS, JavaScript, Qquery, React, Git, Figma 를 사용할 수 있어요.
 
 🎈 GTQ Ptoshop, GTQ 일러스트레이터, GTQ Ptoshop InDesign 를 사용할 수 있어요.
   
