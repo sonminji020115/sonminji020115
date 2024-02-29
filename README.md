@@ -1,6 +1,6 @@
-👋 Hi, I’m sonminji
+👋 Hi, I’m Front-end developers sonminji
   
-👀 프론트엔드 개발에 관심이 있어요.
+👀 프론트엔드 개발에 관심이 많아요.
 
 ✨ HTML, CSS, JavaScript, Qquery, React, Git, Figma 를 사용할 수 있어요.
 
